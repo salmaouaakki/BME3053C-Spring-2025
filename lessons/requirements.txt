@@ -1,0 +1,6 @@
+pip install jupyter
+pip install matplotlib
+pip install numpy
+pip install pandas
+pip install black
+pip install pylint
